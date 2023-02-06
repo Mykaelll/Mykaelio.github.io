@@ -1,0 +1,31 @@
+body {
+	background: rgb(216, 213, 213);
+}
+.container {
+	width: 20%;
+	height: 400px;
+	justify-content: center;
+	border: 10px solid white;
+	background: white;
+	border-radius: 3%;
+}
+.child{
+	/* height: auto;
+	width: 150px; */
+	margin: auto;
+}
+img {
+	height: 45%;
+	width: 100%;
+	border-radius: 5%;
+}
+p {
+	font-size: 15px;
+	color: grey;
+	justify-content: center;
+}
+.flex{
+	font-weight: 700;
+	font-family: Arial;
+	color: rgb(17, 17, 17);
+}
